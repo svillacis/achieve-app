@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69246529513",
+    "project_id": "achieve-d5fcc",
+    "storage_bucket": "achieve-d5fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69246529513:android:f378ba15b867f9cfd36578",
+        "android_client_info": {
+          "package_name": "us.ubuntustudios.achieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69246529513-12bjjiro5g8dj70gbng1bkbid8g7lt5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3HZM7Kg4xrCMzeRpnUp6LzZeBU_P46Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69246529513-12bjjiro5g8dj70gbng1bkbid8g7lt5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
